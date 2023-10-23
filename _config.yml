@@ -7,6 +7,7 @@ url_chrome_extension: "https://chrome.google.com/webstore/detail/phijojddekgflej
 baseurl:
 google_analytics_key: G-9JD9WNZB9Z
 google_maps_javascript_api_key: AIzaSyD7yUNvC562y7kQ29IQDOskAkCajJRwX4Q
+google_ads_client: ca-pub-6303782215246052
 disqus_shortname: throwlasso
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
