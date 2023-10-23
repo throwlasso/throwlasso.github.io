@@ -1,0 +1,68 @@
+---
+title: Pricing
+heading: Thank you for your support
+description: Any and all support is greatly appreciated
+pricing_table:
+  - name: Super Hero
+    color: "#8e8e8e"
+    features:
+      - text: $3 per month
+        highlight: true
+      - text: Unlimited Use
+        highlight: false
+      - text: Support future development
+        highlight: false
+      - text: Support breaking fixes
+        highlight: false
+    call_to_action:
+      link: https://buy.stripe.com/4gwdSk2cP2Nc0uccMM
+      text: Subscribe here
+  - name: Coffee Supporter
+    color: "#4a4a4a"
+    features:
+      - text: Make a one time donation
+        highlight: true
+      - text: All your support helps
+        highlight: false
+      - text: Make contributions over time as you realize value
+        highlight: false
+    call_to_action:
+      link: https://www.buymeacoffee.com/throwlasso
+      text: One time pament here
+
+faq:
+  - question: What types of payment do you accept?
+    answer: We leverage Stripe which supports Credit cards including MasterCard, Visa or American Express. Apple and google Pay.
+  - question: Can I change my plan at a later time?
+    answer: Yes, you can upgrade and downgrade your plan at anytime.
+  - question: Questions?
+    answer: Contact us for any further questions at <a href="#">throwlasso@gmail.com</a>.
+---
+<div class="plans">
+	{% for plan in page.pricing_table %}
+		<ul class="plan">
+			<li style="background: {{ plan.color }}">
+				<h3>{{ plan.name }}</h3>
+			</li>
+			{% for feature in plan.features %}
+				<li {% if feature.highlight %} class="highlighted"{% endif %}>{{ feature.text }}</li>
+			{% endfor %}
+
+			{% if plan.call_to_action %}
+				<li class="pricing-cta"><div class="button"><a style="background: {{ plan.color }}" href="{{ plan.call_to_action.link }}">{{ plan.call_to_action.text }} &rarr;</a></div></li>
+			{% endif %}
+		</ul>
+	{% endfor %}
+</div>
+
+{% if page.faq %}
+	<h2>Pricing FAQ</h2>
+	<dl class="faq">
+		{% for item in page.faq %}
+			<div>
+				<dt>{{ item.question }}</dt>
+				<dd>{{ item.answer }}</dd>
+			</div>
+		{% endfor %}
+	</dl>
+{% endif %}

@@ -1,0 +1,22 @@
+---
+title: Our Story
+description: >-
+  I grew up in a household that clipped coupons from the newspaper. Budgets were tight and every dollar counted.  My mom would clip them, sort them, and store them in a coupon folder for use at the next grocery store trip.
+
+  <br><br>Over the years coupons have moved from newspapers to online.  Now you click them to clip them.
+
+  <br><br>I wrote this out of love for my mom who doesn't need to clip coupons anymore but still does because she loves a good deal
+  <br><br>And for my fellow humans on this amazing planet who could better spend their money and time on things that make this world a better place.
+
+---
+
+<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
+<ul class="staff">
+	{% for person in site.staff_members %}
+		<li>
+			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
+			<div class="name">{{ person.name }}</div>
+			<div class="position">{{ person.position }}</div>
+		</li>
+	{% endfor %}
+</ul>
