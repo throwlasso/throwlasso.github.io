@@ -16,7 +16,7 @@ description: Product marketing home for Lasso
 author:
   name: Lasso
   email: throwlasso@gmail.com
-  twitter: # twitter username without the @ symbol
+  twitter: throwlasso
 social:
   name: Lasso
   links:
@@ -90,7 +90,7 @@ exclude:
 _select_data:
   social_icons:
     # - Facebook
-    # - Instagram
+    - Instagram
     # - LinkedIn
     # - Pinterest
     # - Tumblr

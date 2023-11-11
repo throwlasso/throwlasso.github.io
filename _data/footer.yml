@@ -12,10 +12,14 @@
   - name: Contact
     link: /contact/
 - links:
-  # - name: Facebook
-  #   link: https://facebook.com/throwlasso/
-  #   new_window: true
-  #   social_icon: Facebook
+  - name: Facebook
+    link: https://www.facebook.com/profile.php?id=61552743266230
+    new_window: true
+    social_icon: Facebook
+  - name: Instagram
+    link: https://instagr.am/throwlasso
+    social_icon: Instagram
+    new_window: true
   - name: Twitter
     link: https://twitter.com/throwlasso/
     social_icon: Twitter
