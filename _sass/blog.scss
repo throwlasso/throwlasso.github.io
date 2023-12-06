@@ -123,3 +123,18 @@
 		right: -3px;
 	}
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    min-width: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+}
