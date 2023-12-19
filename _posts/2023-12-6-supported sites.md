@@ -34,6 +34,7 @@ Updated List of Supported Sites
 | Hannaford | [https://www.hannaford.com/coupons](https://www.hannaford.com/coupons) |
 | Harris Teeter | [https://www.harristeeter.com/savings/cl/coupons/](https://www.harristeeter.com/savings/cl/coupons/) |
 | HyVee | [https://www.hy-vee.com/deals/coupons](https://www.hy-vee.com/deals/coupons) |
+| Ibotta | [https://ibotta.com/retailers](https://ibotta.com/retailers) |
 | Jewel Osco | [https://www.jewelosco.com/foru/coupons-deals.html](https://www.jewelosco.com/foru/coupons-deals.html) |
 | KINGS | [https://www.kingsfoodmarkets.com/foru/coupons-deals.html](https://www.kingsfoodmarkets.com/foru/coupons-deals.html) |
 | Kroger | [https://www.kroger.com/savings/cl/coupons/](https://www.kroger.com/savings/cl/coupons/) |
