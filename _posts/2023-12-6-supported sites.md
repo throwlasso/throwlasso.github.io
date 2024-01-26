@@ -55,6 +55,7 @@ Updated List of Supported Sites
 | Schnucks | [https://nourish.schnucks.com/web-ext/coupons](https://nourish.schnucks.com/web-ext/coupons) |
 | Shaws | [https://www.shaws.com/foru/coupons-deals.html](https://www.shaws.com/foru/coupons-deals.html) |
 | Smart & Final | [https://www.smartandfinal.com/coupons/](https://www.smartandfinal.com/coupons/) |
+| Smiths Food and Drug | [https://www.smithsfoodanddrug.com/savings/cl/coupons/](https://www.smithsfoodanddrug.com/savings/cl/coupons/) |
 | Sprouts | [https://shop.sprouts.com/shop/coupons](https://shop.sprouts.com/shop/coupons) |
 | Star Market | [https://www.starmarket.com/foru/coupons-deals.html](https://www.starmarket.com/foru/coupons-deals.html) |
 | Stop & Shop | [https://stopandshop.com/savings/coupons/browse](https://stopandshop.com/savings/coupons/browse) |
