@@ -33,6 +33,7 @@ Updated List of Supported Sites
 | Haggen | [https://www.haggen.com/foru/coupons-deals.html](https://www.haggen.com/foru/coupons-deals.html) |
 | Hannaford | [https://www.hannaford.com/coupons](https://www.hannaford.com/coupons) |
 | Harris Teeter | [https://www.harristeeter.com/savings/cl/coupons/](https://www.harristeeter.com/savings/cl/coupons/) |
+| HEB | [https://www.heb.com/digital-coupon/coupon-selection/all-coupons](https://www.heb.com/digital-coupon/coupon-selection/all-coupons) |
 | HyVee | [https://www.hy-vee.com/deals/coupons](https://www.hy-vee.com/deals/coupons) |
 | Ibotta | [https://ibotta.com/retailers](https://ibotta.com/retailers) |
 | Jewel Osco | [https://www.jewelosco.com/foru/coupons-deals.html](https://www.jewelosco.com/foru/coupons-deals.html) |
@@ -74,7 +75,12 @@ Updated List of Supported Sites
 
 | Rewards Categories | Rewards Link |
 | ------- |
-| Chase | [https://secure05ea.chase.com/web/auth/dashboard#/dashboard/merchantOffers/offer-hub](https://secure05ea.chase.com/web/auth/dashboard#/dashboard/merchantOffers/offer-hub) |
+| American Express | [https://global.americanexpress.com/card-offers/view-all](https://global.americanexpress.com/card-offers/view-all) |
+| Bank of America | [https://secure.bankofamerica.com/customer-deals](https://secure.bankofamerica.com/customer-deals) |
+| Chase | [https://secure.chase.com/web/auth/dashboard#/dashboard/merchantOffers/offer-hub](https://secure.chase.com/web/auth/dashboard#/dashboard/merchantOffers/offer-hub) |
+| Citi Card | [https://online.citi.com/US/ag/merchantoffers](https://online.citi.com/US/ag/merchantoffers) |
+| Paypal | [https://www.paypal.com/shopping](https://www.paypal.com/shopping) |
+| US Bank | [https://www.usbank.com](https://www.usbank.com) |
 
 <br>
 ## Drug Stores / Big Box / Misc
