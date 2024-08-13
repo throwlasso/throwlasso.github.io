@@ -4,6 +4,7 @@
 title: Lasso
 url: "https://www.throwlasso.com"
 url_chrome_extension: "https://chrome.google.com/webstore/detail/phijojddekgflejkepppgbnfjjinakih"
+url_firefox_extension: "https://addons.mozilla.org/en-US/firefox/addon/lasso-coupon-offer-auto-clip"
 baseurl:
 google_analytics_key: G-9JD9WNZB9Z
 google_maps_javascript_api_key: AIzaSyD7yUNvC562y7kQ29IQDOskAkCajJRwX4Q

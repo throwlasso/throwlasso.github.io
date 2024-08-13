@@ -26,7 +26,7 @@ Updated List of Supported Sites
 | FoodLion | [https://foodlion.com/savings/coupons/browse](https://foodlion.com/savings/coupons/browse) |
 | Fred Meyer | [https://www.fredmeyer.com/savings/cl/coupons](https://www.fredmeyer.com/savings/cl/coupons) |
 | Fresh Thyme Market | [https://freshthyme.inmarpromotions.com/gallery](https://freshthyme.inmarpromotions.com/gallery) |
-| FreshDirect | [https://www.freshdirect.com/srch.jsp?pageType=ecoupon&pageSize=30&all=false&activePage=1&sortBy=Sort_ECouponDollar&orderAsc=true&activeTab=product](https://www.freshdirect.com/srch.jsp?pageType=ecoupon&pageSize=30&all=false&activePage=1&sortBy=Sort_ECouponDollar&orderAsc=true&activeTab=product) |
+| FreshDirect | [https://www.freshdirect.com/ecoupon](https://www.freshdirect.com/ecoupon) |
 | Frys Food | [https://www.frysfood.com/savings/cl/coupons/](https://www.frysfood.com/savings/cl/coupons/) |
 | GIANT Food Stores | [https://giantfoodstores.com/savings/coupons](https://giantfoodstores.com/savings/coupons) |
 | Giant | [https://giantfood.com/savings/coupons/browse](https://giantfood.com/savings/coupons/browse) |
